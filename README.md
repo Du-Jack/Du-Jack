@@ -70,8 +70,8 @@
 
 ---
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Du-Jack&layout=compact&theme=transparent&langs_count=8&card_width=320" alt="Du-Jack's GitHub Stats"/>
+<a href="https://github.com/Du-Jack">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Du-Jack&layout=compact&theme=transparent&langs_count=8&card_width=200" alt="Du-Jack's GitHub Stats"/>
 </a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Du-Jack&show_icons=true&theme=transparent" />
